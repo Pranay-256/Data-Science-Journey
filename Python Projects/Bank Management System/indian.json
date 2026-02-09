@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Manish Reddy",
+        "age": 29,
+        "email": "manish@indianbank.com",
+        "pin_no": 1212,
+        "accountno": "iB4#kM7",
+        "balance": 12050
+    },
+    {
+        "name": "Pooja Nair",
+        "age": 27,
+        "email": "pooja@indianbank.com",
+        "pin_no": 6622,
+        "accountno": "iN9!tC2",
+        "balance": 800
+    },
+    {
+        "name": "Suresh Kumar",
+        "age": 42,
+        "email": "suresh@indianbank.com",
+        "pin_no": 4455,
+        "accountno": "iJ3@sH1",
+        "balance": 51000
+    },
+    {
+        "name": "Ananya Roy",
+        "age": 24,
+        "email": "ananya@indianbank.com",
+        "pin_no": 9981,
+        "accountno": "iK7@rV4",
+        "balance": 2900
+    },
+    {
+        "name": "Vishal Gupta",
+        "age": 35,
+        "email": "vishal@indianbank.com",
+        "pin_no": 7755,
+        "accountno": "iX2!pD6",
+        "balance": 150
+    }
+]

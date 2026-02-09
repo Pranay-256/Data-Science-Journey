@@ -1,0 +1,7 @@
+[
+  {"name": "Rajat Malhotra", "age": 34, "email": "rajat@pnb.com", "pin_no": 5511, "accountno": "pG3#kQ9", "balance": 8900},
+  {"name": "Kavita Sethi", "age": 28, "email": "kavita@pnb.com", "pin_no": 2211, "accountno": "pA8!mW4", "balance": 45000},
+  {"name": "Gaurav Bhatia", "age": 26, "email": "gaurav@pnb.com", "pin_no": 9876, "accountno": "pT1@hL5", "balance": 1200},
+  {"name": "Simran Kaur", "age": 23, "email": "simran@pnb.com", "pin_no": 5543, "accountno": "pR9!sY3", "balance": 5000},
+  {"name": "Abhishek Yadav", "age": 31, "email": "abhishek@pnb.com", "pin_no": 7781, "accountno": "pE6@uV2", "balance": 350}
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Amit Verma",
+        "age": 29,
+        "email": "amitv@sbi.com",
+        "pin_no": 2244,
+        "accountno": "sA92#kL",
+        "balance": 11300
+    },
+    {
+        "name": "Suman Rao",
+        "age": 33,
+        "email": "suman@sbi.com",
+        "pin_no": 9988,
+        "accountno": "sP4!mQ7",
+        "balance": 24000
+    },
+    {
+        "name": "Priya Gupta",
+        "age": 26,
+        "email": "priya@sbi.com",
+        "pin_no": 6655,
+        "accountno": "sR8@wT1",
+        "balance": 5200
+    },
+    {
+        "name": "Dheeraj Sharma",
+        "age": 38,
+        "email": "dheeraj@sbi.com",
+        "pin_no": 7788,
+        "accountno": "sH1#cB9",
+        "balance": 100000
+    },
+    {
+        "name": "Neha Singh",
+        "age": 22,
+        "email": "neha@sbi.com",
+        "pin_no": 1122,
+        "accountno": "sX6!pE4",
+        "balance": 901
+    }
+]

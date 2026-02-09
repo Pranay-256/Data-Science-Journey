@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Harshit Taneja",
+        "age": 31,
+        "email": "harshit@canara.com",
+        "pin_no": 3322,
+        "accountno": "cA7@pL9",
+        "balance": 7000
+    },
+    {
+        "name": "Megha Rao",
+        "age": 24,
+        "email": "megha@canara.com",
+        "pin_no": 8877,
+        "accountno": "cT2!qB6",
+        "balance": 500
+    },
+    {
+        "name": "Rohan Joshi",
+        "age": 28,
+        "email": "rohan@canara.com",
+        "pin_no": 1235,
+        "accountno": "cW8#nD3",
+        "balance": 12000
+    },
+    {
+        "name": "Sneha Mehta",
+        "age": 35,
+        "email": "sneha@canara.com",
+        "pin_no": 5544,
+        "accountno": "cK9!uS1",
+        "balance": 40000
+    },
+    {
+        "name": "Vikram Singh",
+        "age": 27,
+        "email": "vikram@canara.com",
+        "pin_no": 1414,
+        "accountno": "cF3@mV8",
+        "balance": 800
+    }
+]

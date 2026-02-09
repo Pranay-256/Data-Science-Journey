@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Rahul Sharma",
+        "age": 20,
+        "email": "rahul@gmail.com",
+        "pin_no": 4433,
+        "accountno": "R0AB#57",
+        "balance": 599
+    },
+    {
+        "name": "Ritik Ranawat",
+        "age": 20,
+        "email": "ritik24@gmail.com",
+        "pin_no": 3456,
+        "accountno": "*12FZb3",
+        "balance": 500
+    },
+    {
+        "name": "Pradeep Singh Negi",
+        "age": 21,
+        "email": "pradeep106@gmail.com",
+        "pin_no": 4321,
+        "accountno": "cu295$V",
+        "balance": 19975
+    },
+    {
+        "name": "aman",
+        "age": 27,
+        "email": "aman@gmail.com",
+        "pin_no": 1234,
+        "accountno": "8#7f3qw",
+        "balance": 10300
+    },
+    {
+        "name": "Chris Gayle",
+        "age": 34,
+        "email": "gayle@gmail.com",
+        "pin_no": 1234,
+        "accountno": "3il6f7%",
+        "balance": 0
+    },
+    {
+        "name": "Champak",
+        "age": 23,
+        "email": "champak@gmail.com",
+        "pin_no": 1234,
+        "accountno": "3v74xo&",
+        "balance": 90
+    },
+    {
+        "name": "mickel jackson",
+        "age": 25,
+        "email": "jackson@123gmail.com",
+        "pin_no": 1234,
+        "accountno": "0L@S0U0",
+        "balance": 1000
+    },
+    {
+        "name": "Dhoom",
+        "age": 20,
+        "email": "dhoom123@gmail.com",
+        "pin_no": 4321,
+        "accountno": "%Y7Q69l",
+        "balance": 9500
+    },
+    {
+        "name": "roddy",
+        "age": 23,
+        "email": "propeddnv@gmail.com",
+        "pin_no": 1234,
+        "accountno": "h28Y9K%",
+        "balance": 0
+    }
+]

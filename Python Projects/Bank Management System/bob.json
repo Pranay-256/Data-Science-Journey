@@ -1,0 +1,7 @@
+[
+  {"name": "Karan Patel", "age": 30, "email": "karan@bob.com", "pin_no": 7788, "accountno": "bL2@xZ7", "balance": 6000},
+  {"name": "Arjun Desai", "age": 32, "email": "arjun@bob.com", "pin_no": 6654, "accountno": "bH5!tM3", "balance": 18000},
+  {"name": "Divya Shah", "age": 25, "email": "divya@bob.com", "pin_no": 5566, "accountno": "bQ1#sP4", "balance": 4300},
+  {"name": "Siddharth Jain", "age": 29, "email": "sid@bob.com", "pin_no": 8899, "accountno": "bN9!vC8", "balance": 150000},
+  {"name": "Tina Goyal", "age": 21, "email": "tina@bob.com", "pin_no": 3344, "accountno": "bD7@wF2", "balance": 900}
+]
