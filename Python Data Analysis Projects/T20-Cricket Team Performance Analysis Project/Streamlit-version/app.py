@@ -1014,7 +1014,7 @@ if uploaded_files:
             startangle=90
         )
         
-        # 👇 Reduce percentage font size
+        #  Reduce percentage font size
         for autotext in autotexts:
             autotext.set_fontsize(9)
         
@@ -1257,4 +1257,5 @@ if uploaded_files:
             st.dataframe(bowling_consistency_summary)
         
         else:
+
             st.info("Bowling consistency is not applicable for single match dataset.")    
